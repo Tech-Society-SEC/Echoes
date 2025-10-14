@@ -1,31 +1,41 @@
 # Echoes
-## 📅 **Week [Number] (Day 1 & Day 2, [YYYY])**
+## 📅 **Week [1] (Day 1 & Day 2, [13/10/25,14/10/25])**
 
 ### 🗓 **Day 01**
 
 ## **Key Accomplishments:**
-
+The team successfully set up flashlight effects and created a realistic fog, dust, and mist environment to enhance the haunted village atmosphere. 
+Characters and assets were imported, laying the groundwork for scene detailing.
 ## **Goals for Next Day:**
-
+ai animation works
 #### 👥 **Team Contributions**
 
 * ## **Name01:**
+Daksha.C(Set up the flashlight system to enhance visibility and mood.)
 * ## **Name02:**
+MahaJanani.R(Worked on environment setup and imported characters and assets into the scene.)  
 * ## **Name03:**
-* ## **Name04:**
+Steffi.J(Created fog, mist, and dust effects to add a realistic haunted fee)
+
 
 ---
 
 ### 🗓 **Day 02**
 
 ## **Key Accomplishments:**
+AI animation and weapon systems were implemented, focusing on character behaviors and interaction dynamics. 
+The next phase aims to refine and complete the AI animation for smoother gameplay.
+
 
 ## **Goals for Next Week:**
-
+completeion of ai animation
 #### 👥 **Team Contributions**
 
 * ## **Name01:**
+Daksha.C(Worked on AI setup and basic animation logic.) 
 * ## **Name02:**
+MahaJanani.R(Developed the Behaviour Tree for AI to define enemy reactions and movements.)
 * ## **Name03:**
-* ## **Name04:**
+steffi.J(Designed and integrated weapons for player and AI use.)
+
 
