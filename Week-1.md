@@ -6,6 +6,10 @@
 ## **Key Accomplishments:**
 The team successfully set up flashlight effects and created a realistic fog, dust, and mist environment to enhance the haunted village atmosphere. 
 Characters and assets were imported, laying the groundwork for scene detailing.
+
+
+![fogsetup](https://github.com/user-attachments/assets/a97756b2-432c-4422-b9f4-6ef3082b0d25)
+
 ## **Goals for Next Day:**
 ai animation works
 #### 👥 **Team Contributions**
@@ -25,6 +29,8 @@ ai animation works
 ## **Key Accomplishments:**
 AI animation and weapon systems were implemented, focusing on character behaviors and interaction dynamics. 
 The next phase aims to refine and complete the AI animation for smoother gameplay.
+
+<img width="1918" height="1024" alt="image" src="https://github.com/user-attachments/assets/35d30514-42eb-499e-98ca-dde6ff9d9463" />
 
 ## **Goals for Next Week:**
 completeion of ai animation
