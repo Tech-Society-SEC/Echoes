@@ -38,13 +38,13 @@ Characters and assets were imported, laying the groundwork for scene detailing.
 
 ## **Goals for Next Day:**
 AI-Animation works:-
-#### 👥 **TEAM CONTIBUTIONS**
+# 👥 **TEAM CONTIBUTIONS**
 
-* ## **DAKSHA C:**
+* # **DAKSHA C:**
 #### Set up the flashlight system to enhance visibility and mood.
-* ## **MAHA JANANI R:**
+* # **MAHA JANANI R:**
 #### Worked on environment setup and imported characters and assets into the scene.
-* ## **STEFFI J**
+* # **STEFFI J**
 #### Created fog, mist, and dust effects to add a realistic haunted fee
 
 
