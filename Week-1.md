@@ -10,12 +10,12 @@ Characters and assets were imported, laying the groundwork for scene detailing.
 ai animation works
 #### 👥 **Team Contributions**
 
-* ## **Name01:**
-Daksha.C(Set up the flashlight system to enhance visibility and mood.)
-* ## **Name02:**
-MahaJanani.R(Worked on environment setup and imported characters and assets into the scene.)  
-* ## **Name03:**
-Steffi.J(Created fog, mist, and dust effects to add a realistic haunted fee)
+* ## **Daksha.C:**
+#### Set up the flashlight system to enhance visibility and mood.
+* ## **MahaJanani.R:**
+#### Worked on environment setup and imported characters and assets into the scene.
+* ## **Steffi J**
+#### Created fog, mist, and dust effects to add a realistic haunted fee
 
 
 ---
@@ -28,13 +28,13 @@ The next phase aims to refine and complete the AI animation for smoother gamepla
 
 ## **Goals for Next Week:**
 completeion of ai animation
-#### 👥 **Team Contributions**
+## 👥 **Team Contributions**
 
-* ## **Name01:**
-Daksha.C(Worked on AI setup and basic animation logic.) 
-* ## **Name02:**
-MahaJanani.R(Developed the Behaviour Tree for AI to define enemy reactions and movements.)
-* ## **Name03:**
-steffi.J(Designed and integrated weapons for player and AI use.)
+* ## **Daksha.C**
+#### Worked on AI setup and basic animation logic.
+* ## **MahaJanani.R**
+#### Developed the Behaviour Tree for AI to define enemy reactions and movements.
+* ## **Steffi.J**
+#### Designed and integrated weapons for player and AI use.
 
 
